@@ -7,9 +7,9 @@ Ce repositoire **non-officiel** contient le code de calcul du budget de l'Assura
 
 Les fichiers publiés et reproduits ici contiennent la version corrigée du code, contenant les scripts de calcul (en langage de programmation "R"), et les données utilisées pour effectuer ces calculs.
 
-Des détails sur l'erreur d'estimation sont disponibles dans le [rapport d'enquête](https://www.newsd.admin.ch/newsd/message/attachments/91930.pdf) (en allemand) mené par le cabinet d'avocat Bratschi, dont un extrait en français est disponible [ici](https://www.newsd.admin.ch/newsd/message/attachments/91939.pdf). Voir aussi le [communiqué de presse](https://www.news.admin.ch/fr/nsb?id=103468) du Département fédéral de l’intérieur (DFI), dont fait partie l'OFAS.
-
-D'autres documents portant sur les calculs financiers de l'AVS sont disponibles sur la [page dédiée de l'OFAS](https://www.bsv.admin.ch/bsv/fr/home/assurances-sociales/ahv/finanzen-ahv.html).
+#### Pour plus d'informations
+- le [rapport d'enquête](https://www.newsd.admin.ch/newsd/message/attachments/91930.pdf) (en allemand) mené par le cabinet d'avocat Bratschi, dont un [extrait traduit en français](https://www.newsd.admin.ch/newsd/message/attachments/91939.pdf) est disponible, ainsi que le [communiqué de presse](https://www.news.admin.ch/fr/nsb?id=103468) du Département fédéral de l’intérieur (DFI, qui comprend l'OFAS) l'accompagnant
+- la [page dédiée de l'OFAS](https://www.bsv.admin.ch/bsv/fr/home/assurances-sociales/ahv/finanzen-ahv.html) sur les calculs financiers de l'AVS
 
 ### Deutsch
 
