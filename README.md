@@ -3,7 +3,7 @@ The scripts and data reproduce the "AHV Finanzhaushalt" expenditure projections 
 
 ## Context
 ### Français
-Ce repositoire **non-officiel** contient le code de calcul du budget de l'Assurance-vieillesse et survivants (AVS) suisse, publié le 31 octobre 2024 par l'Office fédéral des Assurances Sociales (OFAS) ([lien original](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/berechnungscode-fh-ahv.zip.download.zip/fhh_ahv_160924.zip)). La publication de ce code fait suite à une erreur d'estimation de plusieurs milliards des dépenses de l'AVS causée par le code précédent, menant à une controverse publique durant l'été 2024.
+Ce repositoire **non-officiel** contient le **code de calcul du budget de l'Assurance-vieillesse et survivants (AVS)** suisse, publié le 31 octobre 2024 par l'Office fédéral des Assurances Sociales (OFAS) ([lien original](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/berechnungscode-fh-ahv.zip.download.zip/fhh_ahv_160924.zip)). La publication de ce code fait suite à une erreur d'estimation de plusieurs milliards des dépenses de l'AVS causée par le code précédent, menant à une controverse publique durant l'été 2024.
 
 Les fichiers publiés et reproduits ici contiennent la version corrigée du code, contenant les scripts de calcul (en langage de programmation "R"), et les données utilisées pour effectuer ces calculs.
 
