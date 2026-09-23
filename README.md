@@ -1,6 +1,9 @@
 # AHV-AVS-budget
 The scripts and data reproduce the "AHV Finanzhaushalt" expenditure projections published on 16.09.2024 (see https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/finanzen-ahv.html).
 
+## Motivation
+Making important federal data that was compressed, readable on the web.
+
 ## Context
 ### Français
 Ce repositoire **non-officiel** contient **le code de calcul du budget de l'Assurance-vieillesse et survivants (AVS)** suisse, publié le 31 octobre 2024 par l'Office fédéral des Assurances Sociales (OFAS) ([lien original](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/berechnungscode-fh-ahv.zip.download.zip/fhh_ahv_160924.zip)).
