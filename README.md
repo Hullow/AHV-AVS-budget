@@ -2,10 +2,10 @@
 The scripts and data reproduce the "AHV Finanzhaushalt" expenditure projections published on 16.09.2024 (see https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/finanzen-ahv.html).
 
 ## Motivation
-- DE | Wichtige, komprimierte Bundesdaten im Internet lesbar machen.
-- FR | Rendre lisibles sur le Web des données fédérales importantes qui étaient compressées.
-- IT | Rendere accessibili sul web importanti dati federali che erano stati compressi.
-- EN | Making important federal data that was compressed, readable on the web.
+- **DE** – Wichtige, komprimierte Bundesdaten im Internet lesbar machen.
+- **FR** – Rendre lisibles sur le Web des données fédérales importantes qui étaient compressées.
+- **IT** – Rendere accessibili sul web importanti dati federali che erano stati compressi.
+- **EN** – Making important federal data that was compressed, readable on the web.
 
 ## Context
 ### Français
